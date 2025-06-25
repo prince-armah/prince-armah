@@ -1,7 +1,8 @@
 # About Me 👋
 
 
-**prince-armah/prince-armah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I enjoy bringing ideas to life through clean code and thoughtful design.**
+
 
 - 👯 I’m looking to collaborate on future projects
 - 💬 Ask me anything
